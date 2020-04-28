@@ -1,0 +1,168 @@
+{
+  "pillar": [
+    "relax",
+    "nourish",
+    "move",
+    "connect"
+  ],
+  "keywords": [
+    "AARPStayingSharp is yourresourceforkeeping",
+    "Test"
+  ],
+  "success": true,
+  "contentType": [
+    "articles",
+    "games",
+    "recipes"
+  ],
+  "results": [
+    {
+      "nodeName": "brainfact1346841051",
+      "image": "",
+      "cq:lastReplicationAction": "Activate",
+      "cq:lastReplicatedBy": "aarp-admin-service-user",
+      "keywords": [],
+      "author": "Srikanth",
+      "addedBy": "qa_ta_user",
+      "link": "https://stayingsharp.aarp.org/articles/brain-fact-bulk-add",
+      "source": "test Source",
+      "pillar": [
+        "relax"
+      ],
+      "jcr:mixinTypes": [
+        "cq:ReplicationStatus"
+      ],
+      "originalDate": "2020-04-16",
+      "jcr:primaryType": "nt:unstructured",
+      "cq:lastReplicated": "Wed Apr 22 2020 12:09:16 GMT+0000",
+      "brainfact": "Brain Fact-1",
+      "contentType": [
+        "articles"
+      ],
+      "outcome": [
+        "stress",
+        "performance"
+      ]
+    },
+    {
+      "nodeName": "brainfact1833948528",
+      "image": "/content/dam/specialized-membership/staying-sharp/articles/info-2015/720-dairy-cows-pasture.jpg",
+      "cq:lastReplicationAction": "Activate",
+      "cq:lastReplicatedBy": "aarp-admin-service-user",
+      "keywords": [
+        "AARPStayingSharp is yourresourceforkeeping"
+      ],
+      "author": "RAj",
+      "addedBy": "qa_ta_user",
+      "link": "https://stayingsharp-ta.aarp.org/",
+      "source": "AARP Staying Sharp is your resource for keeping your body and mind engaged and energized while you are home staying healthy and safe",
+      "pillar": [
+        "nourish"
+      ],
+      "jcr:mixinTypes": [
+        "cq:ReplicationStatus"
+      ],
+      "originalDate": "",
+      "jcr:primaryType": "nt:unstructured",
+      "cq:lastReplicated": "Mon Apr 20 2020 12:23:37 GMT+0000",
+      "brainfact": "AARP Staying Sharp is your resource for keeping your body and mind engaged and energized while you are home staying healthy and safe.Testing image",
+      "contentType": [
+        "games"
+      ],
+      "outcome": [
+        "critical thinking"
+      ]
+    },
+    {
+      "nodeName": "brainfact2062647011",
+      "image": "/content/dam/specialized-membership/staying-sharp/articles/info-2015/720-fresh-blueberries.jpg",
+      "cq:lastReplicationAction": "Activate",
+      "cq:lastReplicatedBy": "aarp-admin-service-user",
+      "keywords": [
+        "Test"
+      ],
+      "author": "",
+      "addedBy": "qa_ta_user",
+      "link": "testing",
+      "source": "",
+      "pillar": [
+        "nourish"
+      ],
+      "jcr:mixinTypes": [
+        "cq:ReplicationStatus"
+      ],
+      "originalDate": "",
+      "jcr:primaryType": "nt:unstructured",
+      "cq:lastReplicated": "Tue Apr 21 2020 12:26:46 GMT+0000",
+      "brainfact": "Testing brain fact: Activate Staying Sharp by signing in with your AARP account. From there you can choose your own path to brain health by digging into our evidence-based tes",
+      "contentType": [
+        "recipes"
+      ],
+      "outcome": [
+        "performance"
+      ]
+    },
+    {
+      "nodeName": "brainfact332655688",
+      "image": "",
+      "cq:lastReplicationAction": "Activate",
+      "cq:lastReplicatedBy": "aarp-admin-service-user",
+      "keywords": [
+        "Test"
+      ],
+      "author": "",
+      "addedBy": "qa_ta_user",
+      "link": "https://stayingsharp-ta.aarp.org/authenticated/",
+      "source": "Tets",
+      "pillar": [
+        "move"
+      ],
+      "jcr:mixinTypes": [
+        "cq:ReplicationStatus"
+      ],
+      "originalDate": "",
+      "jcr:primaryType": "nt:unstructured",
+      "cq:lastReplicated": "Mon Apr 20 2020 10:47:18 GMT+0000",
+      "brainfact": "AARP Staying Sharp is your resource for keeping your body and mind engaged and energized while you are home staying healthy and safe. AARP Staying Sharp is your resource",
+      "contentType": [
+        "games"
+      ],
+      "outcome": [
+        "creativity"
+      ]
+    },
+    {
+      "nodeName": "brainfact1923618965",
+      "image": "/content/dam/specialized-membership/staying-sharp/articles/info-2015/720-avocado-fresh-slices.jpg",
+      "cq:lastReplicationAction": "Activate",
+      "cq:lastReplicatedBy": "aarp-admin-service-user",
+      "keywords": [],
+      "author": "Srikanth - 2",
+      "addedBy": "qa_ta_user",
+      "link": "https://stayingsharp.aarp.org/articles/brain-fact-bulk-add-2",
+      "source": "test Source - 2",
+      "pillar": [
+        "connect"
+      ],
+      "jcr:mixinTypes": [
+        "cq:ReplicationStatus"
+      ],
+      "jcr:primaryType": "nt:unstructured",
+      "cq:lastReplicated": "Wed Apr 22 2020 10:50:21 GMT+0000",
+      "brainfact": "Brain Fact - 2",
+      "contentType": [
+        "articles"
+      ],
+      "outcome": [
+        "happiness"
+      ]
+    }
+  ],
+  "outcome": [
+    "stress",
+    "performance",
+    "critical thinking",
+    "creativity",
+    "happiness"
+  ]
+}
